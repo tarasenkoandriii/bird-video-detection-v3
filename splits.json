@@ -1,0 +1,20 @@
+{
+  "train_sequences": [
+    "bird-10",
+    "bird-11",
+    "bird-14",
+    "bird-16",
+    "bird-5"
+  ],
+  "val_sequences": [
+    "bird-19",
+    "bird-9"
+  ],
+  "sealed_holdout_sequences": [
+    "bird-2",
+    "bird-3",
+    "bird-15",
+    "bird-17"
+  ],
+  "frame_count": 14118
+}
