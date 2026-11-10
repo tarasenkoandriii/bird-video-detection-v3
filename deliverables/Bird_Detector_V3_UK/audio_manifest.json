@@ -1,0 +1,189 @@
+{
+  "voice": "Daniel",
+  "language": "uk",
+  "speed": 1.15,
+  "model": "tts-rt-v2",
+  "slides": [
+    {
+      "slide": 1,
+      "file": "slide-01.flac",
+      "duration_seconds": 13.536,
+      "bytes": 403569
+    },
+    {
+      "slide": 2,
+      "file": "slide-02.flac",
+      "duration_seconds": 13.536,
+      "bytes": 403386
+    },
+    {
+      "slide": 3,
+      "file": "slide-03.flac",
+      "duration_seconds": 13.632,
+      "bytes": 410534
+    },
+    {
+      "slide": 4,
+      "file": "slide-04.flac",
+      "duration_seconds": 14.304,
+      "bytes": 422615
+    },
+    {
+      "slide": 5,
+      "file": "slide-05.flac",
+      "duration_seconds": 13.92,
+      "bytes": 411470
+    },
+    {
+      "slide": 6,
+      "file": "slide-06.flac",
+      "duration_seconds": 14.016,
+      "bytes": 410662
+    },
+    {
+      "slide": 7,
+      "file": "slide-07.flac",
+      "duration_seconds": 13.92,
+      "bytes": 414824
+    },
+    {
+      "slide": 8,
+      "file": "slide-08.flac",
+      "duration_seconds": 13.632,
+      "bytes": 402498
+    },
+    {
+      "slide": 9,
+      "file": "slide-09.flac",
+      "duration_seconds": 14.976,
+      "bytes": 434035
+    },
+    {
+      "slide": 10,
+      "file": "slide-10.flac",
+      "duration_seconds": 12.384,
+      "bytes": 367626
+    },
+    {
+      "slide": 11,
+      "file": "slide-11.flac",
+      "duration_seconds": 11.616,
+      "bytes": 345660
+    },
+    {
+      "slide": 12,
+      "file": "slide-12.flac",
+      "duration_seconds": 13.632,
+      "bytes": 402159
+    },
+    {
+      "slide": 13,
+      "file": "slide-13.flac",
+      "duration_seconds": 16.128,
+      "bytes": 466774
+    },
+    {
+      "slide": 14,
+      "file": "slide-14.flac",
+      "duration_seconds": 17.568,
+      "bytes": 513510
+    },
+    {
+      "slide": 15,
+      "file": "slide-15.flac",
+      "duration_seconds": 15.264,
+      "bytes": 436855
+    },
+    {
+      "slide": 16,
+      "file": "slide-16.flac",
+      "duration_seconds": 11.52,
+      "bytes": 345515
+    },
+    {
+      "slide": 17,
+      "file": "slide-17.flac",
+      "duration_seconds": 12.672,
+      "bytes": 370732
+    },
+    {
+      "slide": 18,
+      "file": "slide-18.flac",
+      "duration_seconds": 13.536,
+      "bytes": 396096
+    },
+    {
+      "slide": 19,
+      "file": "slide-19.flac",
+      "duration_seconds": 19.968,
+      "bytes": 573342
+    },
+    {
+      "slide": 20,
+      "file": "slide-20.flac",
+      "duration_seconds": 17.664,
+      "bytes": 507442
+    },
+    {
+      "slide": 21,
+      "file": "slide-21.flac",
+      "duration_seconds": 15.264,
+      "bytes": 450937
+    },
+    {
+      "slide": 22,
+      "file": "slide-22.flac",
+      "duration_seconds": 16.128,
+      "bytes": 466361
+    },
+    {
+      "slide": 23,
+      "file": "slide-23.flac",
+      "duration_seconds": 18.144,
+      "bytes": 541215
+    },
+    {
+      "slide": 24,
+      "file": "slide-24.flac",
+      "duration_seconds": 17.568,
+      "bytes": 499592
+    },
+    {
+      "slide": 25,
+      "file": "slide-25.flac",
+      "duration_seconds": 17.376,
+      "bytes": 491580
+    },
+    {
+      "slide": 26,
+      "file": "slide-26.flac",
+      "duration_seconds": 16.704,
+      "bytes": 471899
+    },
+    {
+      "slide": 27,
+      "file": "slide-27.flac",
+      "duration_seconds": 13.152,
+      "bytes": 396672
+    },
+    {
+      "slide": 28,
+      "file": "slide-28.flac",
+      "duration_seconds": 14.784,
+      "bytes": 433103
+    },
+    {
+      "slide": 29,
+      "file": "slide-29.flac",
+      "duration_seconds": 13.056,
+      "bytes": 376619
+    },
+    {
+      "slide": 30,
+      "file": "slide-30.flac",
+      "duration_seconds": 12.96,
+      "bytes": 382248
+    }
+  ],
+  "total_duration_seconds": 442.56
+}
